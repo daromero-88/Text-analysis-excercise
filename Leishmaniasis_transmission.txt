@@ -1,0 +1,9 @@
+Introduction:
+In past decades, leishmaniasis burden has been low across Egypt; however, changing environment and land use has placed several parts of the country at risk. As a consequence, leishmaniasis has become a particularly difficult health problem, both for local inhabitants and for multinational military personnel.
+Methods:
+To evaluate coarse-resolution aspects of the ecology of leishmaniasis transmission, collection records for sandflies and Leishmania species were obtained from diverse sources. To characterize environmental variation across the country, we used multitemporal Land Surface Temperature (LST) and Normalized Difference Vegetation Index (NDVI) data from the Moderate Resolution Imaging Spectroradiometer (MODIS) for 2005-2011. Ecological niche models were generated using MaxEnt, and results were analyzed using background similarity tests to assess whether associations among vectors and parasites (i.e., niche similarity) can be detected across broad geographic regions.
+Results:
+We found niche similarity only between one vector species and its corresponding parasite species (i.e., Phlebotomus papatasi with Leishmania major), suggesting that geographic ranges of zoonotic cutaneous leishmaniasis and its potential vector may overlap, but under distinct environmental associations. Other associations (e.g., P. sergenti with L. major) were not supported. Mapping suitable areas for each species suggested that northeastern Egypt is particularly at risk because both parasites have potential to circulate.
+Conclusions:
+Ecological niche modeling approaches can be used as a first-pass assessment of vector-parasite interactions, offering useful insights into constraints on the geography of transmission patterns of leishmaniasis.
+
