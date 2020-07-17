@@ -1,0 +1,11 @@
+BACKGROUND
+Oropouche virus causes Oropouche fever, an arboviral disease transmitted mainly by midges of the genus Culicoides and Culex mosquitoes. Clinical presentation of Oropouche fever in humans includes fever, headache, rash, myalgia, and in rare cases spontaneous bleeding and aseptic meningitis. Landscape change has been proposed as a driver of Oropouche fever emergence.
+OBJECTIVE
+To investigate the landscape epidemiology of the Oropouche fever outbreak that began in April 2016 in Cusco, Peru.
+METHODS
+We used information of vegetation and multivariate spatial analyses including ecological niche modeling. Vegetation was characterised using16-day composite enhanced vegetation index (EVI) images at 500 m spatial resolution from the MODIS sensor carried by the Terra satellite.
+FINDINGS
+Cases were distributed across seven Peruvian districts in two provinces. La Concepcion was the province with most of the affected districts. EVI time series across 2000 to 2016 suggested a decline in the vegetation in sites with Oropouche fever cases before the epidemic. Our ecological niche modeling suggests that other areas in Junin, Apurimac, and Madre de Dios departments are at risk of Oropouche fever occurrence.
+MAIN CONCLUSIONS
+Our results may provide a guide for future fieldwork to test hypotheses regarding Oropouche fever emergence and habitat loss in tropical Latin America.
+
