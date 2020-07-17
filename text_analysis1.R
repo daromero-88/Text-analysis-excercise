@@ -119,15 +119,15 @@ barplot(d[1:10,]$freq, las = 2, names.arg = d[1:10,]$word,
 
 #####READING A LIST OF ABSTRACTS######
 
+#FOR LOOP READING ABSTRACTS: 
 m = list.files (full.names = T, pattern = '.txt') #list of abstracts in an object
 
 lt1 = list () #empty list to fill with the abstracts
 for (i in m){
   rr = readLines(i) 
-  lt1[[length(lt1)+1]]= rr #filling the list 
+  enc = enc2utf8 (rr) #THIS LINE IS FIXING THE ENCODING PROBLEM...maybe hahaha
+  lt1[[length(lt1)+1]]= enc #filling the list 
 }
-
-
 
 
 
